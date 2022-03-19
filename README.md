@@ -6,9 +6,7 @@
 > knowlde of Arrays,For loops, Formatting Cells to know if the Market is good to invest in or not.
 
 ## Results
-
-
- - Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+.
  ---
  ### VBA Analysis 2017
 ![All Stocks(2017)](https://github.com/Tifarahani/Challange-2-Bootcamp/blob/main/Resources/All%20Stocks(2017).png)
@@ -44,6 +42,6 @@
 - [x] Cons: We have to retest lots of functionality and it takes a lot of time
 
 #### Conclusion: 
-Refactoring improves the design of software, makes software easier to understand, helps us find bugs and also helps in executing the program faster. There is an additional benefit of refactoring. It changes the way a developer thinks about the implementation when not refactoring.
+Refactoring improves the design of software, makes software easier to understand, helps us find bugs and also helps in executing the program faster.
 
 
