@@ -32,9 +32,17 @@
 * It prevents many future defects. 
 * Code Size is reduced. 
 * Confused coding is properly restructured.
-
+* Will lead to more unit testable code 
 - [x] Disadvantages:
-- [ ]Time consuming
+- Time consuming
+- A long procedure may contain the same line of code in several locations, you can change the logic to eliminate the duplicate lines.
+-A logical structure may be duplicated in two or more procedures (possibly via copy & paste coding). When detected, this logic is best moved to a new function and called from the other functions.
+-Refactoring process can affect the testing outcomes.
 
-* How do these pros and cons apply to refactoring the original VBA script
+### How do these pros and cons apply to refactoring the original VBA script
+- [x] Pros: Refactoring leads to better quality code
+- [x] Cons: We have to retest lots of functionality and it takes a lot of time
+
+##  Conclusion:Refactoring improves the design of software, makes software easier to understand, helps us find bugs and also helps in executing the program faster. There is an additional benefit of refactoring. It changes the way a developer thinks about the implementation when not refactoring.
+
 
