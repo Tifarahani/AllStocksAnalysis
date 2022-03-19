@@ -29,9 +29,12 @@
 - [x] Advantages:
 * After refactoring, the code is fresher, easier to understand or read, less complex and easier to maintain
 * Logical errors easily appear in well structure code that contains nested conditionals and loops.
+* It prevents many future defects. 
+* Code Size is reduced. 
+* Confused coding is properly restructured.
 
--Disadvantages:
+- [x] Disadvantages:
+- [ ]Time consuming
 
 * How do these pros and cons apply to refactoring the original VBA script
-graph TD;
-A-->B
+
