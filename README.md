@@ -2,17 +2,19 @@
 
 
 ## Overview of Project
->The purpose of this project was to refactor a Stock Market Dataset with VBA and demonstrate "Total Daily Volume" and "Return" in the year 2017 and 2018 using the >knowlde of Arrays,For loops, Formatting Cells to know if the Market is good to invest in or not.
+>The purpose of this project was to refactor a Stock Market Dataset with VBA and demonstrate "Total Daily Volume" and "Return" in the year 2017 and 2018 using 
+> knowlde of Arrays,For loops, Formatting Cells to know if the Market is good to invest in or not.
 
 ## Results
 
 
  - - Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
- - 
+ ###VBA Analysis 2017
 ![All Stocks(2017)](https://github.com/Tifarahani/Challange-2-Bootcamp/blob/main/Resources/All%20Stocks(2017).png)
 ![All Stocks-timer(2017)](https://github.com/Tifarahani/Challange-2-Bootcamp/blob/main/Resources/All%20Stocks-timer(2017).png)
 
 ---
+ ###VBA Analysis 2017
 ![All Stocks(2018)](https://github.com/Tifarahani/Challange-2-Bootcamp/blob/main/Resources/All%20Stocks(2018).png)
 ![All Stocks-timer(2018)](https://github.com/Tifarahani/Challange-2-Bootcamp/blob/main/Resources/All%20Stocks-timer(2018).png)
  
