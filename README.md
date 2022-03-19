@@ -43,6 +43,7 @@
 - [x] Pros: Refactoring leads to better quality code
 - [x] Cons: We have to retest lots of functionality and it takes a lot of time
 
-##  Conclusion:Refactoring improves the design of software, makes software easier to understand, helps us find bugs and also helps in executing the program faster. There is an additional benefit of refactoring. It changes the way a developer thinks about the implementation when not refactoring.
+#### Conclusion: 
+Refactoring improves the design of software, makes software easier to understand, helps us find bugs and also helps in executing the program faster. There is an additional benefit of refactoring. It changes the way a developer thinks about the implementation when not refactoring.
 
 
