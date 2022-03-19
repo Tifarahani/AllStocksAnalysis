@@ -6,8 +6,9 @@ The purpose of this project was to refactor a Stock Market Dataset with VBA and 
 
 ## Results
 
-!
+
  - - Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+ ![All Stocks(2017)](https://myoctocat.com/assets/images/base-octocat.svg)
  
  ---
 ##  Summary:
