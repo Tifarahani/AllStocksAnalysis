@@ -18,7 +18,11 @@ The purpose of this project was to refactor a Stock Market Dataset with VBA and 
  
  ---
 ##  Summary:
-* What are the advantages or disadvantages of refactoring code?
+>
+>
+>
+>
+>* What are the advantages or disadvantages of refactoring code?
 -Advantages:
 -Disadvantages:
 
