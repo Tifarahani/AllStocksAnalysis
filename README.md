@@ -8,6 +8,7 @@ The purpose of this project was to refactor a Stock Market Dataset with VBA and 
 
 
  - - Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+ - 
 ![All Stocks(2017)](https://github.com/Tifarahani/Challange-2-Bootcamp/blob/main/Resources/All%20Stocks(2017).png)
 ![All Stocks-timer(2017)](https://github.com/Tifarahani/Challange-2-Bootcamp/blob/main/Resources/All%20Stocks-timer(2017).png)
 
