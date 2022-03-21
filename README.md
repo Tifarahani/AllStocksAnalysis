@@ -123,16 +123,13 @@ Sub AllStocksAnalysisRefactored()
 
     For i = dataRowStart To dataRowEnd
         
-        If Cells(i, 3) > 0 Then
-            
-            Cells(i, 3).Interior.Color = vbGreen
-            
+        If Cells(i, 3) > 0 Then   
+            Cells(i, 3).Interior.Color = vbGreen    
         Else
         
             Cells(i, 3).Interior.Color = vbRed
             
-        End If
-        
+        End If   
     Next i
  
     endTime = Timer
